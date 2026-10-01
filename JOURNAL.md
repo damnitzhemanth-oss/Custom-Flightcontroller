@@ -4,14 +4,22 @@ author: "Hemanth"
 description: "A flight controller for drone but designed from scratch with failsafes's"
 created_at: "2026-09-29"
 ---
-<<<<<<< HEAD
-=======
 
-#September 29 : Planned and completed three sections of the schematic design.
+# September 29: Planned and completed three sections of the schematic design
 
 Spent the day planning the flight controller (more of which you will see in README soon) and completed Section 1 (Batter Input), Section 2 (Step Down), Section 3 (USB OR-ring). You will see these in depth in README (trying to keep journal short :).
->>>>>>> e221b1d9f81e53913425c0f0b9f3f02dc7b2d65f
 
-#September 29 : Planned and completed three sections of the schematic design.
+![Schematic](Images(for%20JOURNAL)/Section1.png)
+![Schematic](Images(for%20JOURNAL)/Section2.png)
+![Schematic](Images(for%20JOURNAL)/Section3.png)
 
-Spent the day planning the flight controller (more of which you will see in README soon) and completed Section 1 (Batter Input), Section 2 (Step Down), Section 3 (USB OR-ring). You will see these in depth in README (trying to keep journal short :).
+**Total time spent: 5 hours**
+
+# September 31 : Completed Schematic.
+
+Spent the day to complete all sections of schematic while simultaneously researching about them. (I will add more images after reviewing them).
+
+![Schematic](Images(for%20JOURNAL)/Section12.png)
+![Schematic](Images(for%20JOURNAL)/Section11.png)
+
+**Total time spent: 8 hours**
