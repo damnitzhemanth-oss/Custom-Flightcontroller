@@ -26,7 +26,9 @@ Spent the day to complete all sections of schematic while simultaneously researc
 
 # October 2 : Reviewed schematic and finalized layout.
 
-Today I reviewed my schematic and fixed many loopholes like unconnected things, verified the netlist with online sources and tools everything is fine.
+Today I reviewed my schematic and fixed many loopholes like unconnected things, verified the netlist with online sources and tools everything is fine. To cut costs I replaced bulky components.
+![Schematic](Images(for%20JOURNAL)/Section1.png)
+Replaced Connector to pads so i cant cut JLCPCB assembly costs XD
 
 **Total time spent: 7.4 hours**
 
