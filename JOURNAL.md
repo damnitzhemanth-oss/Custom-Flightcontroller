@@ -23,3 +23,10 @@ Spent the day to complete all sections of schematic while simultaneously researc
 ![Schematic](Images(for%20JOURNAL)/Section11.png)
 
 **Total time spent: 8 hours**
+
+# October 2 : Reviewed schematic and finalized layout.
+
+Today I reviewed my schematic and fixed many loopholes like unconnected things, verified the netlist with online sources and tools everything is fine.
+
+**Total time spent: 7.4 hours**
+
