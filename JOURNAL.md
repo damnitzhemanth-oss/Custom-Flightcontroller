@@ -32,3 +32,13 @@ Replaced Connector to pads so i cant cut JLCPCB assembly costs XD
 
 **Total time spent: 7.4 hours**
 
+# October 3 : Finalized schematic and PCB layout
+
+Swapped some bulky components and began on PCB routing.
+![Schematic](Images(for%20JOURNAL)/PCB_Layout_Draft1.png)
+Replaced Connector to pads so i cant cut JLCPCB assembly costs XD
+
+**Total time spent: 7.4 hours**
+
+
+
