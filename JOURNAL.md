@@ -38,5 +38,15 @@ Swapped some bulky components and began on PCB routing. Major changes in schemat
 ![Schematic](Images(for%20JOURNAL)/PCB_Layout_Draft1.png)
 **Total time spent: 6.6 hours**
 
+# October 4 : Reviewed Schematic.
+
+Yes, schematic is not done after 20+ hours. It is cause I am new to FPV drones and I am taking my time to reasearch myself so I don't overlook real life constraints. My wiring was messed up. Added some pull up resistors, made the values of capacitors wherever necessary same so it will cut JLCPCBA costs further.
+
+![Schematic](Images(for%20JOURNAL)/Section1.png)
+
+For example, I redid this section from scratch.
+
+**Total time spent: 3 hours**
+
 
 
