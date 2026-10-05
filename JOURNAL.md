@@ -46,7 +46,33 @@ Yes, schematic is not done after 20+ hours. It is cause I am new to FPV drones a
 
 For example, I redid this section from scratch.
 
+and new is 
+![Schematic](Images(for%20JOURNAL)/S1.png)
+
 **Total time spent: 3 hours**
+
+# October 5 : Schematic finally complete !
+
+Damn, schematic took more time than I expected. Today I again reviewed ICs with LCSC datasheets and made sure that everything co relates. I  am constantly trying to cut costs. And added new images for journaling in GitHub. 
+
+
+![Schematic](Images(for%20JOURNAL)/S1.png)
+![Schematic](Images(for%20JOURNAL)/S2.png)
+![Schematic](Images(for%20JOURNAL)/S3.png)
+![Schematic](Images(for%20JOURNAL)/S4.png)
+![Schematic](Images(for%20JOURNAL)/S5.png)
+![Schematic](Images(for%20JOURNAL)/S6.png)
+![Schematic](Images(for%20JOURNAL)/S7.png)
+![Schematic](Images(for%20JOURNAL)/S8.png)
+![Schematic](Images(for%20JOURNAL)/S9.png)
+![Schematic](Images(for%20JOURNAL)/S10.png)
+![Schematic](Images(for%20JOURNAL)/S11.png)
+![Schematic](Images(for%20JOURNAL)/S12.png)
+![Schematic](Images(for%20JOURNAL)/S13.png)
+
+**Total time spent: 4.5 hours**
+
+
 
 
 
